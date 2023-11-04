@@ -1,0 +1,3 @@
+theme = "black-and-light"
+relativeURLs = true
+baseURL = "/"
